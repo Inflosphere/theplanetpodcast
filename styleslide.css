@@ -1,0 +1,11 @@
+/* Import Fonts & All CSS */
+@import url(cssslide/default-assets/hkgrotesk-fonts.css);
+
+@import url(cssslide/animate.css);
+@import url(cssslide/default-assets/classy-nav.css);
+@import url(cssslide/owl.carousel.min.css);
+@import url(cssslide/magnific-popup.css);
+
+@import url(cssslide/default-assets/slick.css);
+@import url(cssslide/style.css);
+/* :: 1.0 Reboot CSS */
